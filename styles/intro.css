@@ -1,0 +1,26 @@
+#dev-text p{
+  font: var(--text-sm);
+  color: var(--gray-300);
+
+}
+
+#dev-title {
+  code {
+    font: var(--subtitle);
+    color: var(--gray-200);
+
+    strong {
+      color: var(--red);
+      font-weight: normal;
+    }
+  }
+  h1 {
+    font: var(--title-lg);
+    color: var(--gray-100);
+  }
+}
+
+#dev-tags {
+  font: var(--text-md);
+  color: var(--gray-200);
+}
