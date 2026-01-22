@@ -1,0 +1,24 @@
+#contact header {
+  h3 {
+    font: var(--subtitle);
+    color: var(--purple);
+  }
+
+  h2 {
+    font: var(--title-md);
+    color: var(--gray-100);
+  }
+  
+  span {
+    font: var(--text-md);
+    color: var(--gray-200);
+  }
+}
+
+#contact-links {
+  a {
+    text-decoration: none;
+    font: var(--text-md);
+    color: var(--gray-200);
+  }
+}
