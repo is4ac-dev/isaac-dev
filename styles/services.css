@@ -1,0 +1,23 @@
+#services header {
+  h3 {
+    font: var(--subtitle);
+    color: var(--red);
+  }
+
+  h2 {
+    font: var(--title-md);
+    color: var(--gray-100);
+  }
+}
+
+#services .grid .service-card {
+  h4 {
+    font: var(--title-sm);
+    color: var(--gray-100);
+  }
+
+  span {
+    font: var(--text-sm);
+    color: var(--gray-200);
+  }
+}
