@@ -1,7 +1,7 @@
 # 👨‍💻 Portfólio Pessoal | Isaac Monteiro
 
 <div align="center">
-  <img src="assets/images/Thumbnail_Project-04.png" alt="Capa do Projeto" width="100%">
+  <img src="assets/main-readme.png" alt="Capa do Projeto" width="100%">
 </div>
 
 <br>
