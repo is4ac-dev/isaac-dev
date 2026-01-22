@@ -28,4 +28,13 @@
     font: var(--text-md);
     color: var(--gray-200);
   }
+
+  .social-button {
+    &:hover {
+    outline: solid 1px var(--blue);
+    border-radius: 0.5rem;
+    }
+
+    
+  }
 }

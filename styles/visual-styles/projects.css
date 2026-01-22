@@ -1,5 +1,6 @@
 #projects {
   background-color: var(--gray-500);
+
 }
 
 #projects header {
@@ -24,4 +25,9 @@
     font: var(--text-sm);
     color: var(--gray-200);
   }
+
+  &:hover {
+    outline: solid 1px var(--gray-200);
+  }
 }
+
