@@ -16,7 +16,7 @@
   }
 }
 
-.grid {
+#projects .grid {
   width: 76%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));

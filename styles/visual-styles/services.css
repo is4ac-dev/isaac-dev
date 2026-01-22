@@ -1,3 +1,7 @@
+#services {
+  background-color: var(--gray-600);
+}
+
 #services header {
   h3 {
     font: var(--subtitle);
